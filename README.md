@@ -8,12 +8,12 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=mido.midodark">
-    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/mido.midodark.svg" />
+    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version-short/mido.midodark.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=mido.midodark">
-    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/mido.midodark.svg" />
+    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads-short/mido.midodark.svg" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=mido.midodark">
-    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/mido.midodark.svg" />
+    <img alt="Rating" src="https://vsmarketplacebadge.apphb.com/rating-star/mido.midodark.svg" />
   </a>
 </p>
